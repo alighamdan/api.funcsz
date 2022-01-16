@@ -1,16 +1,26 @@
 {
-  "name": "funcszapi",
+  "name": "api.funcsz",
   "version": "1.0.0",
-  "description": "",
+  "description": "offical npm For funcsz Api docs: https://docs.funcsz.tk",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "alighamdan",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^17.0.8",
     "axios": "^0.24.0"
-  }
+  },
+  "types": "./index.d.ts",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alighamdan/api.funcsz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alighamdan/api.funcsz/issues"
+  },
+  "homepage": "https://github.com/alighamdan/api.funcsz#readme"
 }
