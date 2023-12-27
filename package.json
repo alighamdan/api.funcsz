@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^17.0.8",
-    "axios": "^0.24.0"
+    "axios": "^1.6.3"
   },
   "types": "./index.d.ts",
   "devDependencies": {},
